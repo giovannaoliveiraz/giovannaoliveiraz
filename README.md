@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil meu perfil 😁
+## Bem-vindo(a) ao perfil meu perfil 😊
 
  <div>
    <a href="https://github.com/giovannaoliveiraz">
