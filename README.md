@@ -1,6 +1,6 @@
-## Bem-vindo(a) ao perfil meu perfil 😊
-#Me chamo Giovanna e sou estudante de ADS
-#Atualmente meu foco está em análise de dados e banco de dados 📊
+### Bem-vindo(a) ao perfil meu perfil 😊
+## Me chamo Giovanna e sou estudante de ADS
+## Atualmente meu foco está em análise de dados e banco de dados 📊
 
  <div>
    <a href="https://github.com/giovannaoliveiraz">
@@ -17,7 +17,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue no Linkedin!
+### Compartilho meu aprendizado e evolução no Linkedin.
  
 <div> 
   <a href="https://www.linkedin.com/in/giovannaoliveiraz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
