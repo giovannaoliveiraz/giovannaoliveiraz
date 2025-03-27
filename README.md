@@ -1,5 +1,6 @@
 ## Bem-vindo(a) ao perfil meu perfil 😊
-# Me chamo Giovanna e sou estudante em ADS
+#Me chamo Giovanna e sou estudante de ADS
+#Atualmente meu foco está em análise de dados e banco de dados 📊
 
  <div>
    <a href="https://github.com/giovannaoliveiraz">
